@@ -94,3 +94,6 @@ see [https://github.com/cyfonly/FLogger/tree/master/src/test](https://github.com
 
 # License  
 基于 Apache License 2.0 发布。有关详细信息，请参阅 [LICENSE](https://github.com/cyfonly/FLogger/blob/master/LICENSE)。
+
+# 分析
+https://juejin.im/entry/5849152961ff4b006cb5edbb
